@@ -1,5 +1,5 @@
 # jetbrains-conf-ws
-@pinkrespect
+@pinkrespect  
 @acrlewis
 
 ### README
